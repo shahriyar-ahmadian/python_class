@@ -1,8 +1,11 @@
 # calculeter.py
+![Screenshot 2023-11-14 125730](https://github.com/shahriyar-ahmadian/python_class/assets/140905807/14f81242-93d7-41f5-a3d6-025c631eda97)
 
 # tic_tac_to.py
+![Screenshot 2023-11-14 130233](https://github.com/shahriyar-ahmadian/python_class/assets/140905807/32294328-f02c-43d6-a065-ddf52e74c3a5)
 
 # hangman.py
+output:
 Enter Your Name:shahriyar
 Helloshahriyar
 Get ready!!
